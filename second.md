@@ -1,1 +1,1 @@
-The second file.
+The second file. Change from the 'bugfix' branch.

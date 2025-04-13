@@ -1,1 +1,1 @@
-The second file. Change from the 'main' branch.
+The second file. Change after the merge.
